@@ -19,7 +19,7 @@ body {
     justify-content: center;
 }
 .left {
-    background-image: url(./img/instagram-celular.png);
+    background-image: url(./assets/img/instagram-celular.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
