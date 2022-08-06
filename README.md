@@ -6,4 +6,4 @@
 <li>CSS</li>
 </ul>
 <h2>License</h2>
-<p>This project is under <a href="https://github.com/marcelofgaraujo/dio_instagram_loginpage/blob/main/license" target="_blank">MIT License</a>.</p>
+<p>This project is under <a href="https://github.com/marcelofgaraujo/dio_instagram_loginpage/blob/main/license.md" target="_blank">MIT License</a>.</p>
